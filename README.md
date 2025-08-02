@@ -90,3 +90,11 @@ This script adds a quick‑access floating widget that shows total Pick Support,
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/pick-&-pack-support-hours-widget
+
+# Eligibility to Fans Messenger
+
+This tool adds a small :envelope_with_arrow: icon next to each picker’s name on the eligibility page, allowing you to instantly send them a custom FANS message without ever opening or interacting with the FANS interface. Simply click the icon, type your message in the prompt, and it’s sent directly through Amazon’s internal FANS system using the same backend process as your existing messaging tools. This streamlines communication by removing extra steps, saves time when reaching multiple pickers, and ensures your messages are delivered quickly and reliably without navigating away from your current workflow.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/eligibility-to-fans-auto-messenger
