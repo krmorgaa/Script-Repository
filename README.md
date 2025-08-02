@@ -78,6 +78,7 @@ I have created 2 versions based on preference as they both alter the table sligh
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 Copy button under: https://axzile.corp.amazon.com/-/carthamus/script/rodeo-pick-batch-id-copy-button-(stacked-under)
+
 Copy button to the side: https://axzile.corp.amazon.com/-/carthamus/script/rodeo-pick-batch-id-copy-button-(stacked-to-the-side)
 
 
