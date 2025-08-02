@@ -25,9 +25,9 @@ This suite of tools simplifies managing process path targets by letting you inst
 
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
-https://axzile.corp.amazon.com/-/carthamus/script/multi-tur-calculator
-https://axzile.corp.amazon.com/-/carthamus/script/bod-tur-calculator
-https://axzile.corp.amazon.com/-/carthamus/script/vna-tur-calculator
+https://axzile.corp.amazon.com/-/carthamus/script/multi-tur-calculator ,
+https://axzile.corp.amazon.com/-/carthamus/script/bod-tur-calculator ,
+https://axzile.corp.amazon.com/-/carthamus/script/vna-tur-calculator ,
 https://axzile.corp.amazon.com/-/carthamus/script/singles-tur-calculator
 
 # FC Research Top 5
