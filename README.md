@@ -98,3 +98,11 @@ This tool adds a small :envelope_with_arrow: icon next to each picker’s name o
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/eligibility-to-fans-auto-messenger
+
+# Rodeo Multi-Login CPT Filter
+
+This tool allows you to quickly search and filter the Rodeo table by one or more associate logins using a simple floating search box. Just type in one or more logins, separated by commas, and the table instantly updates to show only relevant rows. This helps streamline investigations, monitor assignments, and reduce time spent scrolling through large data sets.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/rodeo-multi-login-cpt-filter
