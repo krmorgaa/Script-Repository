@@ -106,3 +106,11 @@ This tool allows you to quickly search and filter the Rodeo table by one or more
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/rodeo-multi-login-cpt-filter
+
+# FCLM Time Management Tracker
+
+This Time Move Tracker adds a simple floating widget to the Amazon FCLM Time Details page, letting you quickly log minutes moved for each employee without losing track between sessions. It automatically pulls the employee’s login from the page, allows you to choose the destination process (Pick Support or VRETs), and keeps running totals for the current session and the entire shift. You can undo the last entry, reset sessions or shift totals, and export a neatly formatted CSV (with timestamps, process, minutes, and notes) for record-keeping or reporting.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/fclm-time-move-tracker
