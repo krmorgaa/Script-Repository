@@ -111,7 +111,7 @@ https://axzile.corp.amazon.com/-/carthamus/script/rodeo-multi-login-cpt-filter
 
 This Time Move Tracker adds a simple floating widget to the Amazon FCLM Time Details page, letting you quickly log minutes moved for each employee without losing track between sessions. It automatically pulls the employee’s login from the page, allows you to choose the destination process (Pick Support or VRETs), and keeps running totals for the current session and the entire shift. You can undo the last entry, reset sessions or shift totals, and export a neatly formatted CSV (with timestamps, process, minutes, and notes) for record-keeping or reporting.
 
-# Please note: At this time, this only has Pick Support and VRETs, but upon request I can add any other process.
+Please note: At this time, this only has Pick Support and VRETs, but upon request I can add any other process.
 
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
@@ -121,7 +121,7 @@ https://axzile.corp.amazon.com/-/carthamus/script/fclm-time-move-tracker
 
 This tool adds three convenient quick-access buttons to the Function Rollup page, letting you instantly jump between Pick, Pack Singles, and Pack Multis reports without manually changing the process settings. With one click, you can switch views and get the exact data you need, saving time and streamlining your workflow.
 
-# Please note: At this time, this only has Pick Support and VRETs, but upon request I can add any other process.
+Please note: At this time, this only has Pick Support and VRETs, but upon request I can add any other process.
 
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
