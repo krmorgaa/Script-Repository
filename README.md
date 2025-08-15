@@ -126,3 +126,11 @@ Please note: At this time, this only has Pick Support and VRETs, but upon reques
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/rates-checking-presets
+
+# FANS Message Scheduler
+
+This tool automatically sends pre-written FANS messages at your chosen time zone, letting you set up and manage multiple saved templates from a simple dropdown menu. Easily switch between different messages, edit details on the fly, and keep everything organized without having to retype or remember past messages. Designed for speed and consistency, it ensures your communications go out exactly as planned every day.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/fans-%E2%80%94-multi-message-scheduler
