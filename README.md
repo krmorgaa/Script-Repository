@@ -136,3 +136,11 @@ This can also be easily edited for any manager/shift easily within the widget it
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/fans-%E2%80%94-multi-message-scheduler
+
+# FCLM to Fans Messager
+
+When you’re reviewing an associate’s Time on Task (TOT) in FCLM, this userscript adds a tiny :email: next to the Login. Click it to compose and send a FANS message instantly—using your already-open FANS tab—without copying the login or leaving the page. The message sends with one click and the box auto-closes on success, so you can keep moving through the TOT queue. Great for quick nudges, follow-ups, and coaching notes right as you spot them.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/fclm-%E2%86%92-fans-messaging
