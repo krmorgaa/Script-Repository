@@ -144,3 +144,11 @@ When you’re reviewing an associate’s Time on Task (TOT) in FCLM, this usersc
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/fclm-%E2%86%92-fans-messaging
+
+# Quick IPT Reference
+
+This Tampermonkey add-on makes finding IPT numbers instant. Instead of hunting across a wide AWS-UI table, it auto-locates the “Shipments So Far” and “Today’s IPT Ship Plan” columns, pulls the values for the selected FC (e.g., YOW1), and surfaces them in a compact, always-on-top widget. The numbers are highlighted in the table for quick visual confirmation, auto-refresh as data updates, and can be copied with one click. Net result: consumers get today’s IPT picture in seconds—with less scrolling, fewer clicks, and fewer mistakes.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/quick-ipt-reference
