@@ -168,3 +168,11 @@ This companion widget reads the DPMO/Percentage column to compare defect types b
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/atlas-dpmo-quick-widget
+
+# Rodeo CPT → FANS Messager
+
+ Adds a tiny :email: next to each Login on the Rodeo CPT List. Click to send a quick FANS message (you can edit the prefilled text); Shift-click to send instantly. Uses your existing FANS tab (iad/pdx)—if none is open, just open FANS and click again. No extra widgets, no page changes, and everything runs locally in your browser.
+ 
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/rodeo-%E2%86%92-fans-messaging
