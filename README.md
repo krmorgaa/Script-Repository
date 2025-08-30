@@ -152,3 +152,19 @@ This Tampermonkey add-on makes finding IPT numbers instant. Instead of hunting a
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/quick-ipt-reference
+
+# Atlas Defect Quick Widget
+
+This widget scans the Totals Reports table and shows how much Damage, Short, Reject, Error Indicator, and Wrong ASIN contribute to overall defects. It uses Total → Defect Count (All) as the denominator and displays each type’s count and % of total in a compact panel. It updates automatically as you change site, dates, or filters, giving you a fast snapshot of where defect volume is concentrated for targeted coaching and follow-up.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/atlas-defect-quick-widget
+
+# Atlas DPMO Quick Widget
+
+This companion widget reads the DPMO/Percentage column to compare defect types by rate, not just volume. Using Total (All) DPMO/Percentage as the baseline, it shows each type’s value and its share of the total rate, highlighting issues that are disproportionately risky even when counts are low. It stays in sync with any filter changes and sits just below the first widget, offering a clean, side-by-side view of volume vs. quality rate.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/atlas-dpmo-quick-widget
