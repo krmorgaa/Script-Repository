@@ -205,3 +205,15 @@ Never miss a help request. When a new request appears in the Pending Acknowledge
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/help-me-app-global-alert
+
+# Quick Inventory Reference
+
+This script makes it easy to spot low inventory at a glance.
+It highlights the Total WIP and Total Pickable numbers in the Rodeo ExSD banner when they drop below critical thresholds.
+Values turn yellow as an early warning.
+Values turn red when they fall into critical levels.
+This ensures you don’t miss important volume changes, even when the page refreshes automatically. A small test panel is included so you can confirm the highlighting works; once verified, the panel can be removed for a clean display.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/inventory-quick-reference
