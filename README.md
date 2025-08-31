@@ -1,5 +1,6 @@
 # Script-Repository
-Scripts created by krmorgaa, setup for easy forwarding to AAs
+Scripts created by Kris Morgan (krmorgaa), setup for easy forwarding to AAs.
+Amazon Canada, YOW1
 
 # Batch ID to Rodeo Button
 
