@@ -2,6 +2,8 @@
 Scripts created by Kris Morgan (krmorgaa), setup for easy forwarding to AAs.
 Amazon Canada, YOW1
 
+# 27 Scripts and counting!
+
 # Batch ID to Rodeo Button
 
 This enhancement adds a “Rodeo Link” button directly next to each Batch ID in the Picking Console. With one click, it takes you straight to the correct Rodeo page without manually copying or retyping the ID. It saves time across dozens of batches and reduces error when navigating between systems, especially useful for fast-paced environments or troubleshooting teams.
