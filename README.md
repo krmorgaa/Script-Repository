@@ -195,3 +195,13 @@ If you have any questions or concerns about the use of this script, please reach
 Rodeo - https://axzile.corp.amazon.com/-/carthamus/script/rodeo-quick-search
 
 FCResearch - https://axzile.corp.amazon.com/-/carthamus/script/fc-research-quick-search
+
+# HelpMeApp Global Alert
+
+Never miss a help request. When a new request appears in the Pending Acknowledgement column, this browser add-on triggers a full-screen overlay on whatever tab you’re using with a clear message: ALERT; <reason>. Press Acknowledge on any tab and the popup closes everywhere at once. Optional sound + title flashing for extra visibility. Runs locally via a Tampermonkey userscript and only watches the HelpMe2 respond page.
+
+**PLEASE NOTE:** This script still needs testing, but from what I can tell, it works fine.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/help-me-app-global-alert
