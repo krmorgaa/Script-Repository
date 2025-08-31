@@ -176,3 +176,22 @@ https://axzile.corp.amazon.com/-/carthamus/script/atlas-dpmo-quick-widget
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/rodeo-%E2%86%92-fans-messaging
+
+# FCResearch Quick Search
+
+This add-on speeds up FCResearch lookups. Just type three digits in the search bar (e.g., 123) and it automatically searches for tscage123. If you open a link like ...?s=123, it auto-corrects to ...?s=tscage123. Fewer keystrokes, fewer typos—nothing else on the page changes. Runs only in your browser; no data is sent anywhere.
+
+# Rodeo Quick Search 
+
+Type short codes and let the page fill the rest:
+r### → relrg###
+t### → tscage###
+Works in the Search page and the ExSD top-right “Search Logins” box. The script expands your input before the search runs and also fixes URLs like ?searchKey=r123 → ?searchKey=relrg123. Faster searches, consistent formatting, zero extra clicks—everything stays local to your browser.
+
+These are separate scripts but I made them as kind of a combo.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+Rodeo - https://axzile.corp.amazon.com/-/carthamus/script/rodeo-quick-search
+
+FCResearch - https://axzile.corp.amazon.com/-/carthamus/script/fc-research-quick-search
