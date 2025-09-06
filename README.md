@@ -228,3 +228,12 @@ Hover any container ID (format P-1-…) on the FC Research page to see a small, 
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/fc-research-%E2%86%94-qi-hover-bridge
+
+# Rodeo Force Show Quantity
+
+Some of the newer NewRodeo scripts automatically hide or collapse less-used columns in tables — including the Quantity column. While this can help declutter the view, it makes it harder to quickly reference item counts when you actually need them.
+This script fixes that by forcing the Quantity column to always stay visible on the ItemList page. It doesn’t interfere with your other scripts, and only targets the Quantity/Qty column, so you can keep the benefits of the NewRodeo layout without losing access to this critical information.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/rodeo-item-list-%E2%80%94-force-show-quantity-column
