@@ -2,7 +2,7 @@
 Scripts created by Kris Morgan (krmorgaa), setup for easy forwarding to AAs.
 Amazon Canada, YOW1
 
-# 29 Scripts and counting!
+# 30 Scripts and counting!
 
 # Batch ID to Rodeo Button
 
@@ -237,3 +237,11 @@ This script fixes that by forcing the Quantity column to always stay visible on 
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/rodeo-item-list-%E2%80%94-force-show-quantity-column
+
+# Pick PA/FPY Unwind Autofill
+
+This script helps Pick Process Assistants (PAs) and First Pass Yield (FPY) owners by automatically filling in the “Reason for Unwind” and selecting “Pick Batch ID” when submitting unwind requests. By removing repetitive clicks and typing, it speeds up the process, reduces error risk, and ensures consistency across all entries — letting Pick PAs and FPY focus on quickly resolving issues instead of wrestling with form inputs.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/pick-pa-fpy-unwind-autofull
