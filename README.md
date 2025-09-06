@@ -2,7 +2,7 @@
 Scripts created by Kris Morgan (krmorgaa), setup for easy forwarding to AAs.
 Amazon Canada, YOW1
 
-# 30 Scripts and counting!
+# 31 Scripts and counting!
 
 # Batch ID to Rodeo Button
 
@@ -245,3 +245,11 @@ This script helps Pick Process Assistants (PAs) and First Pass Yield (FPY) owner
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/pick-pa-fpy-unwind-autofull
+
+# Rodeo Scrollbar Adjustment
+
+This tweak fixes the annoying 'scrollbar over the links' problem on Rodeo tables. It moves the horizontal scrollbar to its own rail just under the table so it never sits on top of the last row. You can still scroll side-to-side, but the bottom links remain fully clickable—no more fighting the bar. Vertical scrolling and the table’s behavior stay exactly the same.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/rodeo-scrollbar-fix
