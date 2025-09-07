@@ -221,6 +221,9 @@ If you have any questions or concerns about the use of this script, please reach
 
 https://axzile.corp.amazon.com/-/carthamus/script/inventory-quick-reference
 
+**Added hit/miss tracker.**
+https://axzile.corp.amazon.com/-/carthamus/script/qubit-manual-hit-miss-tracker
+
 # FC Research ↔ QI Hover Bridge
 
 Hover any container ID (format P-1-…) on the FC Research page to see a small, light-themed tooltip with Last counted, Counted qty, Counter, and Work type (stacked Label | Value). Behind the scenes, the script updates the QI Basic Bin History search to warehouse_id: YOW1 AND bin_id:P-1-<container> and scrapes the newest row—no clicks needed. Requirement: keep one QI tab open on Basic Bin History with this userscript enabled. If the tooltip shows blanks, re-authenticate the QI tab (“clear your session”) and it will resume automatically.
