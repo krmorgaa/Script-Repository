@@ -36,13 +36,15 @@ https://axzile.corp.amazon.com/-/carthamus/script/vna-tur-calculator
 
 https://axzile.corp.amazon.com/-/carthamus/script/singles-tur-calculator
 
-# FC Research Top 5
+# FC Research Top 5/10
 
 This script enhances your search page with a toggleable widget that tracks the barcodes you search most often. It automatically ranks them into a dynamic top-5 list so you can reaccess high-priority barcodes with a single click. You can also clear the list, delete individual entries, or export your data to CSV for future reference — making it ideal for roles where frequent rechecks are common, such as problem solving or quality assurance.
 
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
-https://axzile.corp.amazon.com/-/carthamus/script/amazon-fc-barcode-tracker-(top-5,-clear,-delete,-export)
+https://axzile.corp.amazon.com/-/carthamus/script/amazon-fc-barcode-tracker-(top-5,-clear,-delete,-export)  -  Top 5 Version
+
+https://axzile.corp.amazon.com/-/carthamus/script/amazon-fc-barcode-tracker-(top-10,-clear,-delete,-export)  - Top 10 Version
 
 
 # Items Not Assigned
