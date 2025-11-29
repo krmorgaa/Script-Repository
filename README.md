@@ -258,3 +258,11 @@ This tweak fixes the annoying 'scrollbar over the links' problem on Rodeo tables
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/rodeo-scrollbar-fix
+
+# Cage Calling Tool
+
+This script dramatically improves workflow visibility by instantly highlighting cages with enough items to drop, making it easier for managers to identify where work can be built for the Pack team. Instead of manually scanning through long item lists, the tool groups and color-codes high-volume cages at a glance, allowing leaders to prioritize drops, reduce bottlenecks, and keep Pack consistently fed with actionable work. The adjustable threshold ensures it fits any volume level or operational need, making it a simple but highly effective way to optimize downstream productivity.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/cage-calling-tool
