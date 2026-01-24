@@ -266,3 +266,11 @@ This script dramatically improves workflow visibility by instantly highlighting 
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/cage-calling-tool
+
+# Rodeo CPT Tracker
+
+This  script adds a movable, real-time CPT tracking panel to the Rodeo page that continuously monitors the next active CPT window and displays the remaining work by Process Path. The panel shows minutes remaining with dynamic color thresholds (normal, orange under 35 minutes, red under 25 minutes), highlights the highest remaining volumes first, and can be freely repositioned with drag-and-drop, with Alt+X providing a quick reset to center if it is ever lost off-screen.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/rodeo-cpt-tracker
