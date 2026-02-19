@@ -274,3 +274,11 @@ This  script adds a movable, real-time CPT tracking panel to the Rodeo page that
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/rodeo-cpt-tracker
+
+# Manual Clipboard
+
+This script is a lightweight floating clipboard tool that lets you instantly capture text from any webpage using Ctrl + Alt + Click. It’s especially useful on websites where normal Ctrl + Click, text highlighting, or copying is restricted or doesn’t work properly. Instead of fighting the page’s limitations, you can quickly grab the text and store it in a draggable side panel for easy access. From there, you can copy or remove items as needed.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/manual-clipboard
