@@ -2,7 +2,7 @@
 Scripts created by Kris Morgan (krmorgaa), setup for easy forwarding to AAs.
 Amazon Canada, YOW1
 
-# 36 Scripts and counting!
+# 37 Scripts and counting!
 
 # Batch ID to Rodeo Button
 
@@ -282,3 +282,11 @@ This script is a lightweight floating clipboard tool that lets you instantly cap
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/manual-clipboard
+
+# FCLM Presets
+
+This tool adds customizable intraday time presets directly to the FCLM Function Rollup page, allowing users to quickly apply frequently used time windows without manually adjusting the date and time fields each time without looking at the full shift. Presets automatically select intraday mode, populate the correct start and end times, and intelligently handle overnight ranges that cross midnight. This helps streamline productivity monitoring, reduce manual input errors, and significantly speed up repetitive report checks throughout the shift.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/fclm-presets
