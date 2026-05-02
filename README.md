@@ -2,7 +2,7 @@
 Scripts created by Kris Morgan (krmorgaa), setup for easy forwarding to AAs.
 Amazon Canada, YOW1
 
-# 37 Scripts and counting!
+# 40 Scripts and counting!
 
 # Batch ID to Rodeo Button
 
@@ -290,3 +290,21 @@ This tool adds customizable intraday time presets directly to the FCLM Function 
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/fclm-presets
+
+
+# FC Eligibility – Cluster Quick View
+
+This tool adds a lightweight overlay to the Picker Eligibility page that displays all NonMoveable pickers along with their assigned clusters in a clean, easy-to-read format. It automatically simplifies cluster names (Rack, VNA, Rainbow, etc.), converts floor/mezz areas into readable aisle ranges, and highlights super clusters where applicable. The widget also includes a quick summary of clusters with 2+ people, helping identify staffing distribution at a glance. It refreshes automatically every 2 minutes and can be toggled on or off instantly using Alt + Q, making it easy to access when needed without cluttering the page.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/fc-eligibility-quick-clusters-view
+
+
+# Checklist Widget
+
+This tool adds a lightweight, cross-tab synced checklist widget that appears only when tasks are actually due, helping users stay on top of recurring shift responsibilities without cluttering the page. Tasks can be configured individually by exact time or repeating interval, support temporary snoozing, and intelligently respect active shift windows so outdated tasks do not linger. The widget includes a compact draggable settings toggle, persistent positioning, and synchronized behavior across tabs, making it easy to manage routine actions consistently throughout the shift.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/checklist
