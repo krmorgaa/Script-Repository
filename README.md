@@ -19,7 +19,7 @@ This script enhances your workflow by allowing you to quickly and accurately fil
 
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
-https://axzile.corp.amazon.com/-/carthamus/script/fans-yow1-autofill
+https://axzile.corp.amazon.com/-/carthamus/script/fans-yow1-autofill-1
 
 
 # TUR Preset/Calculator
@@ -156,7 +156,7 @@ This Tampermonkey add-on makes finding IPT numbers instant. Instead of hunting a
 
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
-https://axzile.corp.amazon.com/-/carthamus/script/quick-ipt-reference
+https://axzile.corp.amazon.com/-/carthamus/script/qubit-metrics:-shipments-vs-ipt-plan
 
 # Atlas Defect Quick Widget
 
