@@ -2,7 +2,7 @@
 Scripts created by Kris Morgan (krmorgaa), setup for easy forwarding to AAs.
 Amazon Canada, YOW1
 
-# 40 Scripts and counting!
+# 41 Scripts and counting!
 
 # Batch ID to Rodeo Button
 
@@ -308,3 +308,12 @@ This tool adds a lightweight, cross-tab synced checklist widget that appears onl
 If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
 
 https://axzile.corp.amazon.com/-/carthamus/script/checklist
+
+
+# FC Eligibility Quick Buttons
+
+This tool adds a compact quick-access eligibility panel directly to the FC Eligibility website, allowing users to instantly filter common picker eligibility types with a single click instead of manually typing them each time. The widget includes frequently used eligibility presets, stays anchored in the bottom-right corner for easy access, and can be quickly shown or hidden using Alt+X to reduce screen clutter while working.
+
+If you have any questions or concerns about the use of this script, please reach out to krmorgaa on slack. Thank you.
+
+https://axzile.corp.amazon.com/-/carthamus/script/fc-eligibility-quick-buttons
